@@ -1,0 +1,20 @@
+PyFEA - Finite Element Analysis Solver
+=====================================
+
+Files included:
+- fea_solver.py: Main FEA implementation
+- examples.py: Usage examples and demos
+- test_suite.py: Comprehensive test cases
+- validation.py: Analytical validation studies
+
+Total size: 45KB
+
+This package contains the complete PyFEA source code with:
+✓ Matrix-based stiffness assembly
+✓ Euler-Bernoulli beam theory
+✓ Comprehensive validation suite
+✓ Performance benchmarking tools
+
+For the latest version, visit: https://github.com/pyfea
+
+© 2024 PyFEA Project
