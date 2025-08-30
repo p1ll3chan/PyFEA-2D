@@ -1,7 +1,7 @@
 # PyFEA: Professional Research & Marketing Platform
 
 ## 🚀 Live Website
-**Professional Portfolio Website**: https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/fe65c5219a03651e65de791f3e630c9a/a577d9dc-ea1f-4efd-8d25-867cf8abb4e6/index.html
+**Professional Portfolio Website**: https://py-fea-2-d.vercel.app
 
 [![PyFEA Platform](https://py-fea-2-d.vercel.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
